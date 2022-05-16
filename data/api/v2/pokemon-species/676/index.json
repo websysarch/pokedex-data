@@ -698,13 +698,6 @@
         },
         {
             "language": {
-                "name": "roomaji",
-                "url": "/api/v2/language/2/"
-            },
-            "name": "Trimmien"
-        },
-        {
-            "language": {
                 "name": "ko",
                 "url": "/api/v2/language/3/"
             },

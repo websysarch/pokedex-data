@@ -46,13 +46,6 @@
         },
         {
             "language": {
-                "name": "zh-Hant",
-                "url": "/api/v2/language/4/"
-            },
-            "name": "HP"
-        },
-        {
-            "language": {
                 "name": "fr",
                 "url": "/api/v2/language/5/"
             },
@@ -83,13 +76,6 @@
             "language": {
                 "name": "en",
                 "url": "/api/v2/language/9/"
-            },
-            "name": "HP"
-        },
-        {
-            "language": {
-                "name": "zh-Hans",
-                "url": "/api/v2/language/12/"
             },
             "name": "HP"
         }
